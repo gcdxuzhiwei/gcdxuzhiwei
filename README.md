@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://img-cdn-qiniu.dcloud.net.cn/uniapp/doc/icon.png?v=1556263038786"></code>
+<code><img height="20" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcdxuzhiwei&layout=compact)](https://github.com/gcdxuzhiwei/daily-fruit-mini)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gcdxuzhiwei)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gcdxuzhiwei)](https://github.com/gcdxuzhiwei/daily-fruit-mini)
 
